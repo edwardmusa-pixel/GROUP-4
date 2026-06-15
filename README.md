@@ -44,3 +44,5 @@ Quick Installation Guide
 1. Environment Setup
 
 Clone this repository to your local web server development directory (e.g., XAMPP htdocs or WampServer www):
+
+git clone [https://github.com/edwardmusa-pixel/GROUP-4(https://github.com/edwardmusa-pixel/GROUP-4)
